@@ -1,6 +1,4 @@
 import Link from 'next/link'
-import FeatureCard from '@/components/FeatureCard'
-import TestimonialCard from '@/components/TestimonialCard'
 import StatCard from '@/components/StatCard'
 import HeroIllustration from '@/components/HeroIllustration'
 import StudentIllustration from '@/components/StudentIllustration'
